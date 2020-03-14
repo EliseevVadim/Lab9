@@ -1,0 +1,11 @@
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.exe
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.deps.json
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.runtimeconfig.json
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.runtimeconfig.dev.json
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.dll
+D:\L9\MatrixInArray\MatrixInArray\bin\Debug\netcoreapp3.1\MatrixInArray.pdb
+D:\L9\MatrixInArray\MatrixInArray\obj\Debug\netcoreapp3.1\MatrixInArray.csprojAssemblyReference.cache
+D:\L9\MatrixInArray\MatrixInArray\obj\Debug\netcoreapp3.1\MatrixInArray.AssemblyInfoInputs.cache
+D:\L9\MatrixInArray\MatrixInArray\obj\Debug\netcoreapp3.1\MatrixInArray.AssemblyInfo.cs
+D:\L9\MatrixInArray\MatrixInArray\obj\Debug\netcoreapp3.1\MatrixInArray.dll
+D:\L9\MatrixInArray\MatrixInArray\obj\Debug\netcoreapp3.1\MatrixInArray.pdb
