@@ -1,0 +1,11 @@
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.exe
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.deps.json
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.runtimeconfig.json
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.runtimeconfig.dev.json
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.dll
+D:\L9\L9NewTask\L9NewTask\bin\Debug\netcoreapp3.1\L9NewTask.pdb
+D:\L9\L9NewTask\L9NewTask\obj\Debug\netcoreapp3.1\L9NewTask.csprojAssemblyReference.cache
+D:\L9\L9NewTask\L9NewTask\obj\Debug\netcoreapp3.1\L9NewTask.AssemblyInfoInputs.cache
+D:\L9\L9NewTask\L9NewTask\obj\Debug\netcoreapp3.1\L9NewTask.AssemblyInfo.cs
+D:\L9\L9NewTask\L9NewTask\obj\Debug\netcoreapp3.1\L9NewTask.dll
+D:\L9\L9NewTask\L9NewTask\obj\Debug\netcoreapp3.1\L9NewTask.pdb
