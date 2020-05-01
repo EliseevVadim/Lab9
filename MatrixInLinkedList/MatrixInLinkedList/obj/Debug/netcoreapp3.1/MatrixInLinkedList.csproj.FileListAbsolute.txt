@@ -1,0 +1,11 @@
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.exe
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.deps.json
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.runtimeconfig.json
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.runtimeconfig.dev.json
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.dll
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\bin\Debug\netcoreapp3.1\MatrixInLinkedList.pdb
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\obj\Debug\netcoreapp3.1\MatrixInLinkedList.csprojAssemblyReference.cache
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\obj\Debug\netcoreapp3.1\MatrixInLinkedList.AssemblyInfoInputs.cache
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\obj\Debug\netcoreapp3.1\MatrixInLinkedList.AssemblyInfo.cs
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\obj\Debug\netcoreapp3.1\MatrixInLinkedList.dll
+D:\L9\MatrixInLinkedList\MatrixInLinkedList\obj\Debug\netcoreapp3.1\MatrixInLinkedList.pdb
