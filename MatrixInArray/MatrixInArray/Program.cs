@@ -55,7 +55,7 @@ namespace MatrixInArray
                 {
                     for (int k=0; k<resultmatrix.GetLength(1); k++)
                     {
-                        resultmatrix[i, j] += array[k, i] + mas[j, k];
+                        resultmatrix[i, j] += array[k, i] * mas[j, k];
                     }
                 }
             }
